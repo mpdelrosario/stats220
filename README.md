@@ -3,7 +3,7 @@
 I study **computer science** at the [University of Auckland](https://www.auckland.ac.nz/en.html).
 
 This is the meme that most accurately represents my life right now:
-![fantastic meme](https://i.pinimg.com/originals/ea/4b/50/ea4b503721b8ee516531ff9d44210b5a.png)
+![fantastic meme](https://i.pinimg.com/originals/ea/4b/50/ea4b503721b8ee516531ff9d44210b5a.png)  
 *...It's also what I look like in the morning*
 
 ## Favourite movies and books
