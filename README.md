@@ -1,6 +1,6 @@
 # Random facts about me that nobody asked for 🤓
 
-I study **computer science** at the [University of Auckland](https://www.auckland.ac.nz/en.html).
+I study **computer science** at the [University of Auckland](https://www.auckland.ac.nz/en.html) and am currently taking **stats 220** this semester (hence this repo!)
 
 This is the meme that most accurately represents my life right now:
 ![fantastic meme](https://i.pinimg.com/originals/ea/4b/50/ea4b503721b8ee516531ff9d44210b5a.png)  
